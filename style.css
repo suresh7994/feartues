@@ -1,0 +1,10 @@
+
+.bgcolor{
+    background-image: url(bb.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.tborder{
+    border: 1px solid black;
+}
